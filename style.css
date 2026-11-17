@@ -72,6 +72,7 @@ h3{font-size:14px}
 .card h3{margin:0 0 8px;font-size:16px}
 .card p{margin:0 0 12px;line-height:1.5}
 .tag{font:400 10px/1.6 var(--px);color:var(--cyan);margin:16px 0 10px}
+.card .tag{margin:20px 0 10px}
 .more{font:400 11px var(--px);color:var(--gold)}
 .card.locked{background:transparent;outline:2px dashed var(--line);outline-offset:2px}
 .card.locked:hover{background:transparent}
